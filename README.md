@@ -2,8 +2,8 @@
 
 Real-time chat room app with nodejs socketio expressjs and mongodb.
 
-***Install NodeJS (http://nodejs.org/)
-   Install MongoDB (https://www.mongodb.com)
+**Install NodeJS (http://nodejs.org/)
+**Install MongoDB (https://www.mongodb.com)
 
 Then follow below steps:
 
