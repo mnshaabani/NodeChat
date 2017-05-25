@@ -7,9 +7,9 @@ Real-time chat room app with nodejs socketio expressjs and mongodb.
 
 Then follow below steps:
 
-1) Clone the repo and open terminal inside root folder and excute command 'node init' to initilize node modules from package.json  file
+1) Clone the repo and open terminal inside root folder and excute command 'npm install' to Install node modules from package.json  file
 2) Create MongoDb 'chat' DB and add a 'messages' collection with this document structure '{"name":"","message":""}'
-3) Run the server.js. The server will listen on port 5000
+3) Run the server.js. (command -> node server.js) The server will listen on port 5000
 
 
 **The provided code followed a tutorial of 'Codecourse' channel on youtube with a little from my side by separating CLIENT CODE in js folder and implementing ExpressJS to serve a static files and for future considerations..
