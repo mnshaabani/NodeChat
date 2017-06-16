@@ -1,6 +1,6 @@
-# Realtime-ChatRoom
+# NodeChat
 
-Real-time chat room app with nodejs socketio expressjs and mongodb.
+Experiment01: Web-based Real-time chat room app with nodejs socketio expressjs and mongodb.
 
 **Install NodeJS (http://nodejs.org/)
 **Install MongoDB (https://www.mongodb.com)
