@@ -14,4 +14,4 @@ Then follow below steps:
 
 **The provided code followed a tutorial of 'Codecourse' channel on youtube with a little from my side by separating CLIENT CODE in js folder and implementing ExpressJS to serve a static files and for future considerations..
 
-Tut URL (https://www.youtube.com/playlist?list=PLfdtiltiRHWHZh8C2G0xNRbcf0uyYzzK_).
+Tut URL (https://goo.gl/7D5d62).
